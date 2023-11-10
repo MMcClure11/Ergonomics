@@ -3,7 +3,7 @@
 ## Meks McClure (they/them)
 
 #### HackersParadise
-#### Pipa, Brasil 2023-10-04
+#### Buenos Aires, Argentina 2023-11-15
 
 ---
 ### What is ergonomics?
@@ -315,5 +315,5 @@ I shoot for 3 hours standing per 5 hours sitting
 - listen to your body
 
 ---
-## Obrigada
+## Gracias!
 ### Questions?
