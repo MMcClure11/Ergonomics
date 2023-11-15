@@ -91,8 +91,11 @@ most of these I learned about from co-workers when I saw their workflow and aske
 	- use keyboard to navigate browser (FireFox)
 	- uses homerow keys to navigate and select
 		- hjkl
+ 
+![CleanShot 2023-11-15 at 15 14 15](https://github.com/MMcClure11/Ergonomics/assets/60719697/095f23ff-9440-4d64-bcdc-d79df7d52db4)
 
 ---
+
 ## Laptop Tools
 
 - [Warpd](https://github.com/rvaiya/warpd)
@@ -100,13 +103,18 @@ most of these I learned about from co-workers when I saw their workflow and aske
 	- `⌥⌘` + g => grid mode
 	- `m` => left click
 	- `⌥⌘` + x => hint mode
+ 	- use hjkl to move ”mouse” 
 	- requires opening it up using a terminal
+
+![CleanShot 2023-11-15 at 15 18 55](https://github.com/MMcClure11/Ergonomics/assets/60719697/2a5b793d-b345-46f8-8985-9665e57bb469)
 
 ---
 ## Laptop Tools
 
 - [Amethyst](https://ianyh.com/amethyst/)
 	- Tiling window manager for MacOS
+
+![CleanShot 2023-11-15 at 15 23 00](https://github.com/MMcClure11/Ergonomics/assets/60719697/fb670116-5c97-4d86-a574-35258503ee92)
 
 ---
 ## Laptop Tools
@@ -118,6 +126,8 @@ most of these I learned about from co-workers when I saw their workflow and aske
 		- calculator
 		- dictionary
 		- clipboard history
+ 
+![CleanShot 2023-11-15 at 15 27 18](https://github.com/MMcClure11/Ergonomics/assets/60719697/527a1c77-2dc4-48e2-863b-f2527237f1f4)
 
 ---
 ## Laptop Tools
