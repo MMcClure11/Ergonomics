@@ -209,9 +209,15 @@ note:
 - [Voyager](https://www.zsa.io/voyager/)
 	- really nice GUI for customizing it
 	- **$**
+<img width="1353" alt="Screenshot 2023-11-15 at 3 33 16 PM" src="https://github.com/MMcClure11/Ergonomics/assets/60719697/2d34b7f1-4d04-4520-b259-cb134d14bd39">
+
+---
+
 - [Ferris Sweep](https://github.com/davidphilipbarr/Sweep/)
 	- steep learning curve for use, customizing, flashing the firmware, etc.
 	- my favorite tool
+
+<img width="806" alt="Screenshot 2023-11-15 at 3 34 14 PM" src="https://github.com/MMcClure11/Ergonomics/assets/60719697/4e38ce2c-ebf3-4f5b-8ec1-09910bdb830f">
 
 note:
 Yeah, I know. There are options! Necessary if you want to get the screen at the right height.
@@ -223,6 +229,8 @@ Yeah, I know. There are options! Necessary if you want to get the screen at the 
 	- [Gunnars](https://gunnar.com/)
 	- screen protectors
 	- check out settings: often a blue light filter option
+
+ <img width="368" alt="Screenshot 2023-11-15 at 3 36 50 PM" src="https://github.com/MMcClure11/Ergonomics/assets/60719697/75731604-a164-49f5-98f5-858a81d6086b">
 
 ---
 ## Eyes
