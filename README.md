@@ -81,7 +81,8 @@ most of these I learned about from co-workers when I saw their workflow and aske
 	- `^⌥⇧` (control, option, shift) + f = firefox
 	- `^⌥⇧` + s = slack
 
----
+![CleanShot 2023-11-15 at 15 08 22](https://github.com/MMcClure11/Ergonomics/assets/60719697/0a8a0f6f-bdc8-493b-bc21-376efb515800)
+
 ## Laptop Tools
 
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
